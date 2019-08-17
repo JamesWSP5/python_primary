@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5ead1168-0f9b-4b85-b805-06fbce0f6942" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/python_primary.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/01.初识Python.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/02.语言元素.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/03.分支结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/04.循环结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/05.构造程序逻辑.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/06.函数和模块的使用.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/07.字符串和常用数据结构.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/08.面向对象编程基础.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/09.面向对象进阶.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/10.图形用户界面和游戏开发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/11.文件和异常.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/12.字符串和正则表达式.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/13.进程和线程.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/14.网络编程入门和网络应用开发.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/15.图像和办公文档处理.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day01/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/centigrade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/leap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/operator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/strings.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/variable1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/variable2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/variable3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/variable4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day02/variable5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/convert.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/grade.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/piecewise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/rolldice.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/tax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day03/verify.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/for6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/while1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day04/while2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/chicken.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/craps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/lily.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/perfect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day05/table.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day06/function6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/avgscore.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/dict1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/dict2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/fibonacci.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/findmax.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/list1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/list2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/list3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/lottery.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/marquee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/scoretable.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/set1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/set2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/tic-tac-toe.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/tuple.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day07/yanghui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/access.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/circle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/guess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/hack.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/rect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day08/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/association.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/car1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/car2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/clock.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/dependency.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/diamond.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/employee.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/multi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/pet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/rational.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/shape.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day09/triangle.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/ball.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/gui1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/gui2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/gui3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/renju.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/snake.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day10/turtle1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/csv1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/csv2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/ex1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/ex2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/ex3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/ex4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/example.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/file1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/file2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/file3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/file4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/json1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/json2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/mm.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/pi_million_digits.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/teacher.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day11/致橡树.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day12/str1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day12/str2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day12/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day12/test4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day12/test5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/coroutine1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/coroutine2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/generator1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/generator2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/multithread6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/singlethread1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/singlethread2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day13/test3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/chatclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/chatserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/fileclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/fileserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/guido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/mmdownloader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/socket1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/socket2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/socket3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/socket4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/socket5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/timeclient.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day14/timeserver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/excel1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/excel2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/pdf1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/pdf2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/pillow1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/Docker入门教程.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/luohao.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/学生明细表.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/res/用函数还是用复杂的表达式.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/word1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/code/Day15/word2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/TCP-IP-model.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/after-browser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/arpanet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/ball-game.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/ball.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/before-browser.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/browers.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/browser-market-place.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/fibonacci-blocks.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/file-open-mode.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/formula_8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/how-data-is-processed.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-crop.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-filter.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-paste.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-putpixel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-rotate.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-show.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-thumbnail.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/image-transpose.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/ipython-timeit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/macos-monitor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/object-feature.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/oop-zhihu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/osi_rm.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/osimodel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-idle.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-ipython.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-jupyter-1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-jupyter-2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-pycharm.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-set.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/python-sublime.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/tcpipprotocols.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/tel-start-number.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/telnet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/uml-components.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Day01-15/res/uml-example.png" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="65" />
+    <option name="y" value="24" />
+    <option name="width" value="1215" />
+    <option name="height" value="776" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_primary" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python_primary" type="462c0819:PsiDirectoryNode" />
+              <item name="Day01-15" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\gitpycode\python_primary" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5ead1168-0f9b-4b85-b805-06fbce0f6942" name="Default Changelist" comment="" />
+      <created>1566034214766</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566034214766</updated>
+      <workItem from="1566034217613" duration="216000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="216000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info id="Project Explorer" />
+      <window_info id="Job Explorer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Console" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Python Console" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
