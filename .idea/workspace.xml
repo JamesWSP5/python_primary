@@ -2,232 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5ead1168-0f9b-4b85-b805-06fbce0f6942" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_functios/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_functios/python_function.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_variable/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_variable/python_variable.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_variable/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type/python_data_type.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type/test01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/pythoy_hello_world/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pythoy_part1/day01/pythoy_hello_world/hello_world.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoy_part1/day02/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pythoy_part1/day02/convert.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/01.初识Python.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/02.语言元素.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/03.分支结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/04.循环结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/05.构造程序逻辑.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/06.函数和模块的使用.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/07.字符串和常用数据结构.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/08.面向对象编程基础.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/09.面向对象进阶.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/10.图形用户界面和游戏开发.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/11.文件和异常.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/12.字符串和正则表达式.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/13.进程和线程.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/14.网络编程入门和网络应用开发.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/15.图像和办公文档处理.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day01/hello.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day01/peppa_pig.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/centigrade.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/circle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/leap.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/operator.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/strings.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/variable1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/variable2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/variable3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/variable4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day02/variable5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/convert.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/grade.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/piecewise.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/rolldice.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/tax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day03/verify.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/for6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/while1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day04/while2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/chicken.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/craps.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/fibonacci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/guess.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/lily.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/palindrome.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/perfect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/prime.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day05/table.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day06/function6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/avgscore.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/dict1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/dict2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/fibonacci.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/findmax.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/list1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/list2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/list3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/lottery.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/marquee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/scoretable.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/set1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/set2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/tic-tac-toe.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/tuple.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day07/yanghui.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/access.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/circle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/guess.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/hack.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/rect.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day08/student.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/association.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/car1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/car2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/clock.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/dependency.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/diamond.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/employee.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/multi.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/pet.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/rational.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/shape.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day09/triangle.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/ball.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/gui1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/gui2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/gui3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/renju.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/snake.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day10/turtle1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/csv1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/csv2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/ex1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/ex2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/ex3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/ex4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/example.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/file4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/json1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/json2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/mm.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/pi_million_digits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/teacher.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day11/致橡树.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/str1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/str2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/test4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day12/test5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/asyncio3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/coroutine1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/coroutine2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/generator1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/generator2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multiprocess4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/multithread6.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/singlethread1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/singlethread2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/test2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day13/test3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/chatclient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/chatserver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/fileclient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/fileserver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/guido.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/mmdownloader.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket3.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket4.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/socket5.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/timeclient.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day14/timeserver.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/excel1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/excel2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/pdf1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/pdf2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/pillow1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/Docker入门教程.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/guido2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/luohao.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/学生明细表.xlsx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/res/用函数还是用复杂的表达式.docx" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/word1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/code/Day15/word2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/TCP-IP-model.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/after-browser.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/arpanet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/ball-game.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/ball.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/before-browser.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/browers.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/browser-market-place.jpeg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/fibonacci-blocks.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/file-open-mode.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_3.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_4.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_5.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_6.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_7.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/formula_8.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/how-data-is-processed.jpg" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-crop.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-filter.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-paste.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-putpixel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-rotate.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-show.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-thumbnail.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/image-transpose.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/ipython-timeit.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/macos-monitor.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/object-feature.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/oop-zhihu.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/osi_rm.gif" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/osimodel.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-idle.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-ipython.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-jupyter-1.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-jupyter-2.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-pycharm.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-set.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/python-sublime.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/tcpipprotocols.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/tel-start-number.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/telnet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/uml-components.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Day01-15/res/uml-example.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -239,13 +17,26 @@
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="23">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/pythoy_part1/day02/convert.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="46">
+              <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/python_functios/python_function.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
+            <state split_layout="SECOND">
               <first_editor>
                 <caret column="63" selection-start-column="63" selection-end-column="63" />
               </first_editor>
@@ -273,8 +64,9 @@
         <option value="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type/pythoy_data.py" />
         <option value="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type/python_data_type.md" />
         <option value="$PROJECT_DIR$/pythoy_part1/day01/python_variable/python_variable_code.py" />
-        <option value="$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py" />
         <option value="$PROJECT_DIR$/pythoy_part1/day01/python_functios/python_function.md" />
+        <option value="$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py" />
+        <option value="$PROJECT_DIR$/pythoy_part1/day02/convert.py" />
       </list>
     </option>
   </component>
@@ -289,7 +81,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -306,33 +97,13 @@
               <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
               <item name="python_primary" type="462c0819:PsiDirectoryNode" />
               <item name="pythoy_part1" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_primary" type="462c0819:PsiDirectoryNode" />
-              <item name="pythoy_part1" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="python_functios" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_primary" type="462c0819:PsiDirectoryNode" />
-              <item name="pythoy_part1" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="python_variable" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python_primary" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python_primary" type="462c0819:PsiDirectoryNode" />
-              <item name="pythoy_part1" type="462c0819:PsiDirectoryNode" />
-              <item name="day01" type="462c0819:PsiDirectoryNode" />
-              <item name="pythoy_data_type" type="462c0819:PsiDirectoryNode" />
+              <item name="day02" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -366,7 +137,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.pythoy_data">
+  <component name="RunManager" selected="Python.convert">
+    <configuration name="convert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python_primary" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/pythoy_part1/day02" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/pythoy_part1/day02/convert.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python_primary" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -435,6 +228,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.convert" />
         <item itemvalue="Python.pythoy_data" />
         <item itemvalue="Python.hello_world" />
         <item itemvalue="Python.hello" />
@@ -452,25 +246,26 @@
       <option name="presentableId" value="Default" />
       <updated>1566034214766</updated>
       <workItem from="1566034217613" duration="1561000" />
-      <workItem from="1566450582112" duration="5433000" />
+      <workItem from="1566450582112" duration="8200000" />
+      <workItem from="1566783650084" duration="599000" />
+      <workItem from="1566784854013" duration="1991000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6994000" />
+    <option name="totallyTimeSpent" value="12351000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15991472" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Project Explorer" order="2" />
       <window_info id="Job Explorer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32936078" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32936078" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -478,9 +273,9 @@
       <window_info anchor="bottom" id="Console" order="7" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.22860238" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="12" weight="0.32936078" />
       <window_info anchor="bottom" id="Python Console" order="13" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -492,22 +287,55 @@
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python_primary$pythoy_data.coverage" NAME="pythoy_data Coverage Results" MODIFIED="1566461770656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoy_part1/day01/pythoy_data_type" />
+    <SUITE FILE_PATH="coverage/python_primary$convert.coverage" NAME="convert Coverage Results" MODIFIED="1566809008084" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoy_part1/day02" />
     <SUITE FILE_PATH="coverage/python_primary$hello_world.coverage" NAME="hello_world Coverage Results" MODIFIED="1566450719761" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/pythoy_part1/day01/pythoy_hello_world" />
     <SUITE FILE_PATH="coverage/python_primary$hello.coverage" NAME="hello Coverage Results" MODIFIED="1566034563767" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Day01-15/code/Day01" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day01/hello.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="16" selection-start-line="16" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Day01-15/res/after-browser.jpg">
-      <provider selected="true" editor-type-id="images" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/Day01-15/code/Day01/hello.py" />
+    <entry file="file://$PROJECT_DIR$/Day01-15/res/after-browser.jpg" />
     <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/pythoy_hello_world/hello_world.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="69">
@@ -543,17 +371,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/python_functios/python_function.md">
       <provider editor-type-id="text-editor" />
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
+        <state split_layout="SECOND">
           <first_editor>
             <caret column="63" selection-start-column="63" selection-end-column="63" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoy_part1/day01/python_functios/test_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="23">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pythoy_part1/day02/convert.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="46">
+          <caret line="2" column="29" selection-start-line="2" selection-start-column="29" selection-end-line="2" selection-end-column="29" />
         </state>
       </provider>
     </entry>
